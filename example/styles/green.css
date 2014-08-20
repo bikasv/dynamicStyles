@@ -1,0 +1,7 @@
+.abc {
+    background: green;
+    color: #eee;
+}
+.abc:after {
+    content: "(Green Style)"
+};

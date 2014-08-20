@@ -1,0 +1,7 @@
+.abc {
+    background: red;
+    color: white;
+}
+.abc:after {
+    content: "(Red Style)"
+};
